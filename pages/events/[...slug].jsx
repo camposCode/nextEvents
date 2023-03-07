@@ -2,9 +2,7 @@ import React from 'react'
 
 const FilteredEventsPage = () => {
     return (
-        <>
-            <h1>Filtered Events Page</h1>
-        </>
+        <div>FilteredEventsPage</div>
     )
 }
 
