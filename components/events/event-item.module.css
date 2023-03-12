@@ -11,8 +11,7 @@
 
 .item img {
     width: 100%;
-    object-fit: cover;
-    height: 10rem;
+    height: 15rem;
 }
 
 .content {
@@ -36,22 +35,25 @@
 .address svg {
     width: 1.25rem;
     height: 1.25rem;
-    color: #666666;}.content time {
+    color: #666666;
+}
+
+.content time {
     color: #666666;
     font-weight: bold;}.content address {
     margin: 0.5rem 0;
     color: #666666;
-    white-space: pre;}.actions {
+    white-space: pre;
+}
+
+.actions {
     display: flex;
     flex-direction: column;
     padding: 1rem;
 }
 
 .actions a {
-    display: block;
-}
-
-.actions a span {
+    display: block;}.actions a span {
     vertical-align: middle;
 }
 
@@ -78,7 +80,7 @@
     }
 
     .content {
-        width: 60%;
+        width: 65%;
         padding: 0;
         text-align: left;
     }
