@@ -53,7 +53,10 @@
 }
 
 .actions a {
-    display: block;}.actions a span {
+    display: block;
+}
+
+.actions a span {
     vertical-align: middle;
 }
 
@@ -80,17 +83,12 @@
     }
 
     .content {
-        width: 65%;
+        width: 60%;
         padding: 0;
         text-align: left;
     }
 
     .content h2 {
         margin: 1rem 0;
-    }
-
-    .actions {
-        flex-direction: row;
-        justify-content: flex-end;
     }
 }
